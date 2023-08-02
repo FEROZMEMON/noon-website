@@ -1,0 +1,14 @@
+.b{
+    list-style: none;
+}
+@media(max-width: 768px){
+    .a{display: none;}
+} 
+@media(max-width:1008px){
+    .c{
+        flex-wrap: wrap;
+    }
+}
+.d{
+    font-size: xx-large;
+}
